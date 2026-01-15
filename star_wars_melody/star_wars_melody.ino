@@ -19,6 +19,7 @@
 // more musically minded (time signature, tempo, etc)
 
 #include "pitches.h"
+#include <string.h>
 
 // handy macro to determine the number of elements in an array
 #define LENGTH_OF(x)  sizeof(x) / sizeof(*x)
